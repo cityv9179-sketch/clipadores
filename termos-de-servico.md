@@ -13,7 +13,8 @@ as drafts to the owner's own TikTok account through the official TikTok Content 
    it, including giving credit to the original creators.
 4. **No warranty.** The App is provided "as is", without warranties of any kind.
 5. **Changes.** These terms may be updated at any time on this page.
-6. **Contact:** [seu e-mail de contato]
+6. **Contact:** cityv9179@gmail.com
+
 
 ---
 
@@ -22,4 +23,5 @@ as drafts to the owner's own TikTok account through the official TikTok Content 
 Clipadores é uma ferramenta pessoal, usada só pelo dono no próprio computador, para editar cortes verticais e
 enviá-los como rascunho para a própria conta do TikTok pela API oficial (Content Posting API). Cada vídeo é revisado e
 publicado manualmente pelo dono no app do TikTok. O dono é responsável pelo conteúdo que publica e por dar crédito aos
-criadores originais. A ferramenta é fornecida "como está", sem garantias. Contato: [seu e-mail de contato]
+criadores originais. A ferramenta é fornecida "como está", sem garantias. Contato: cityv9179@gmail.com
+
